@@ -1,0 +1,15 @@
+C:\Users\99451\source\repos\MethodOwerloading\MethodOwerloading\bin\Debug\net6.0\MethodOwerloading.exe
+C:\Users\99451\source\repos\MethodOwerloading\MethodOwerloading\bin\Debug\net6.0\MethodOwerloading.deps.json
+C:\Users\99451\source\repos\MethodOwerloading\MethodOwerloading\bin\Debug\net6.0\MethodOwerloading.runtimeconfig.json
+C:\Users\99451\source\repos\MethodOwerloading\MethodOwerloading\bin\Debug\net6.0\MethodOwerloading.dll
+C:\Users\99451\source\repos\MethodOwerloading\MethodOwerloading\bin\Debug\net6.0\MethodOwerloading.pdb
+C:\Users\99451\source\repos\MethodOwerloading\MethodOwerloading\obj\Debug\net6.0\MethodOwerloading.csproj.AssemblyReference.cache
+C:\Users\99451\source\repos\MethodOwerloading\MethodOwerloading\obj\Debug\net6.0\MethodOwerloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99451\source\repos\MethodOwerloading\MethodOwerloading\obj\Debug\net6.0\MethodOwerloading.AssemblyInfoInputs.cache
+C:\Users\99451\source\repos\MethodOwerloading\MethodOwerloading\obj\Debug\net6.0\MethodOwerloading.AssemblyInfo.cs
+C:\Users\99451\source\repos\MethodOwerloading\MethodOwerloading\obj\Debug\net6.0\MethodOwerloading.csproj.CoreCompileInputs.cache
+C:\Users\99451\source\repos\MethodOwerloading\MethodOwerloading\obj\Debug\net6.0\MethodOwerloading.dll
+C:\Users\99451\source\repos\MethodOwerloading\MethodOwerloading\obj\Debug\net6.0\refint\MethodOwerloading.dll
+C:\Users\99451\source\repos\MethodOwerloading\MethodOwerloading\obj\Debug\net6.0\MethodOwerloading.pdb
+C:\Users\99451\source\repos\MethodOwerloading\MethodOwerloading\obj\Debug\net6.0\MethodOwerloading.genruntimeconfig.cache
+C:\Users\99451\source\repos\MethodOwerloading\MethodOwerloading\obj\Debug\net6.0\ref\MethodOwerloading.dll
